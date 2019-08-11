@@ -1,0 +1,8 @@
+com\sanqi\common\bean\ItemDesc.class
+com\sanqi\common\bean\PicUploadResult.class
+com\sanqi\common\bean\BasePojo.class
+com\sanqi\common\bean\Item.class
+com\sanqi\common\bean\EasyUIResult.class
+com\sanqi\common\bean\ItemCatResult.class
+com\sanqi\common\bean\ItemCatData.class
+com\sanqi\common\spring\exetend\converter\json\CallbackMappingJackson2HttpMessageConverter.class
